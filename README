@@ -1,0 +1,45 @@
+Tk Timesheet --  a Perl/Tk timesheet calculator for working out 
+                 your weekly hours
+
+   Copyright (c) 1999  Andy Duncan, England
+
+   email:   andy_j_duncan@yahoo.com
+   CPAN id: CPAN/authors/id/A/AN/ANDYDUNC
+
+   You may distribute under the terms of either the GNU General Public
+   License or the Artistic License, as specified in the Perl README file,
+   with the exception that it cannot be placed on a CD-ROM or similar media
+   for commercial distribution without the prior approval of the author.
+
+WARNING:
+
+   THIS SOFTWARE IS PROVIDED "AS IS" IN THE HOPE THAT IT WILL BE USEFUL, 
+   BUT WITHOUT ANY WARRANTY; WITHOUT EVEN THE IMPLIED WARRANTY OF 
+   MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+PREREQUISITES:
+
+   You'll need at least perl5.005_02 & Tk402.004
+
+REALLY QUICK START GUIDE:
+
+   perl tk_timesheet.pl <RETURN>
+
+
+ABOUT TK TIMESHEET:
+
+Are you a contractor, or a consultant who needs to work out their
+weekly hours for invoicing purposes?
+
+Are you less than keen to use Microsoft spreadsheet products
+to do this?
+
+Then "Tk Timesheet" is for you.
+
+Revision History
+----------------
+Vers Date   Comment
+---- ----   -------
+0.01 Apr 99
+
+EOF
